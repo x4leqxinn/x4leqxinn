@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=4lequinn">
 
 ### Hi there 👋
-Hello, my name is Jorge Quintui,I am a Student of Computer Engineering.
+Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
 
 - 🎓 I _**love**_ coding.
 - 📡 I’m currently learning Big Data.
