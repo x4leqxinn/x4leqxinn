@@ -4,7 +4,7 @@
 Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
 
 - 🎓 I _**love**_ coding.
-- 📡 I’m currently learning Django RestFramework.
+- 📡 I’m currently learning Ruby on Rails and Vuejs.
 - ✨ I’m looking to collaborate on opensource and group projects.
 
 ## Languages
