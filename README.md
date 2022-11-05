@@ -55,5 +55,5 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
 
 ## Github Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn)](https://github.com/anuraghazra/github-readme-stats) 
-<img src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn)](https://github.com/4lequinn/github-readme-stats) 
+
