@@ -40,7 +40,6 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
 ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
 
 
-
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
