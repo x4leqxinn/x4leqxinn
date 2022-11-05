@@ -16,7 +16,7 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
       <a href="https://github.com/4lequinn?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
 <a href="https://github.com/4lequinn?tab=repositories&language=ruby" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
-            <a href="https://github.com/4lequinn?tab=repositories&language=kotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+            <a href="https://github.com/4lequinn?tab=repositories&language=kotlin" target="_blank"><img heigth="10px" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img>
