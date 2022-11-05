@@ -22,7 +22,6 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
   <img src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img>
      <br>
      <a href="https://github.com/4lequinn?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/4lequinn" target="_blank"><img alt="4lequinn" src="https://badges.pufler.dev/visits/4lequinn/4lequinn?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/4lequinn/4lequinn" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/4lequinn/4lequinn?label=profile%20updated&style=flat-square"></a>
   </samp>
   </p>
