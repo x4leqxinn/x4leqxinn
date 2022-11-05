@@ -14,7 +14,7 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
       <a href="https://github.com/4lequinn?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-      <a href="https://github.com/4lequinn?tab=repositories&language=ruby" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-375eab?style=flat-square&logo=Ruby&logoColor=black"></a>
+[      <a href="https://github.com/4lequinn?tab=repositories&language=ruby" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-375eab?style=flat-square&logo=Ruby&logoColor=white"></a>](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
       <a href="https://github.com/4lequinn?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
