@@ -18,6 +18,7 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
       <a href="https://github.com/4lequinn?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/4lequinn?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+      <img align="left" alt="4lequinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true" />    &nbsp;
   </samp>
   </p>
 </details>
@@ -50,5 +51,4 @@ Hello, my name is Jorge Quintui, I am a Student of Computer Engineering.
 
 ## Github Overview
 
-<img align="left" alt="4lequinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn)](https://github.com/anuraghazra/github-readme-stats) 
