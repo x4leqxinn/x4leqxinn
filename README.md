@@ -18,7 +18,7 @@
 
 <div align="center">
     <a href="https://www.instagram.com/x4leqxinn/" >
-        <img alt="Mona Xina" src="https://postimg.cc/FkXxfq3h" height="500" width="100%" style="border-radius: 50%";>
+        <img alt="Mona Xina" src="https://i.postimg.cc/L5nQWFsg/uwu.gif" height="500" width="100%" style="border-radius: 50%";>
     </a>
 </div>
 
