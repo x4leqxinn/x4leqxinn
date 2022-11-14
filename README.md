@@ -27,4 +27,3 @@
 ## Github Overview
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn)](https://github.com/4lequinn/github-readme-stats) 
-[![uwu.gif](https://i.postimg.cc/L5nQWFsg/uwu.gif)](https://postimg.cc/FkXxfq3h)
