@@ -3,7 +3,7 @@
 <h1 align="center">Hi ❣, I'm Jorge Quintui</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lequinn" alt="4lequinn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lequinn-ma&no-bg=true" alt="4lequinn" /></a> </p>
 
 - 🎓 I _**love**_ coding.
 - 📡 I’m currently learning Ruby on Rails and Vuejs.
