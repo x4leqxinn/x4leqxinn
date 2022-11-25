@@ -54,3 +54,6 @@ export default () => ({
 
 ## Some tags
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lequinn&no-bg=true&theme=dark_lover" alt="4lequinn" /></a> </p>
+
+## Recent GitHub Activity
+![github contribution grid snake animation](https://raw.githubusercontent.com/4lequinn/4lequinn/output/github-contribution-grid-snake.svg)
