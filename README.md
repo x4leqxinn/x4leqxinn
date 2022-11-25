@@ -49,7 +49,7 @@ export default () => ({
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lequinn&" alt="4lequinn" /></p>
 
-## Top Langs :trollface::
+## Top Langs :trollface:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ## Some tags
