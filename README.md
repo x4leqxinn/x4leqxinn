@@ -44,12 +44,11 @@ export default () => ({
 <a href="https://www.youtube.com/c/x4leqxinn txt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="x4leqxinn txt" height="30" width="40" /></a>
 </p>
 
-
+## Github Overview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true&locale=en" alt="4lequinn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lequinn&" alt="4lequinn" /></p>
 
-## Github Overview
 <h4 align="center">Top langs :trollface:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
