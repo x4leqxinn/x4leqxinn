@@ -45,12 +45,12 @@ export default () => ({
 </p>
 
 ## Github Overview
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true&locale=en" alt="4lequinn" /></p>
+<p align="center">&nbsp;<img al ign="center" src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true&locale=en" alt="4lequinn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lequinn&" alt="4lequinn" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lequinn&" alt="4lequinn" /></p>
 
 <h4 align="center">Top langs :trollface:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lequinn&no-bg=true&theme=dark_lover" alt="4lequinn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lequinn&no-bg=true&theme=dark_lover" alt="4lequinn" /></a> </p>
