@@ -50,6 +50,8 @@ export default () => ({
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lequinn&" alt="4lequinn" /></p>
 
 ## Github Overview
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs :trollface:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lequinn&no-bg=true&theme=dark_lover" alt="4lequinn" /></a> </p>
