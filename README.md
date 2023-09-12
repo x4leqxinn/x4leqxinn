@@ -4,6 +4,8 @@
 
 <h2> Hi, I'm Jorge Quintui. </h2>
 
+<h3> Sé que estás leyendo esto... jijij Te amo boba<3 </h3>
+
 ### <img src="https://64.media.tumblr.com/6002f1f1f1db1e890ec03c2c30905992/a12760da3dfa7f62-77/s500x750/470f623335caea356cb88153baede2c028fe87e6.gifv" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=1200&color=F7F6F6D7&width=435&lines=No+matter+where+you+go;everyone's+connected.)](https://git.io/typing-svg)
 
 ```js
