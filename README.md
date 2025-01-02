@@ -6,7 +6,7 @@
 I am Jorge from Chile, a software engineer passionate about technologies, creating and high-level solutions.
 
 ## Skills and Experience
-* ⚛ Django - Spring Boot
+* 🎯 Django - Spring Boot
 * 📱 Flutter
 * 💻 HTML - CSS - JS - Angular
 
