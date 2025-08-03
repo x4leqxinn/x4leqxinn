@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=x4leqxinn">
 
-![Development]([https://i.pinimg.com/originals/4c/c6/fc/4cc6fc72d42ae5814c01a51b0a49ea5b.gif](https://i.pinimg.com/736x/92/d5/a0/92d5a0e7c75c20e39f548376ab832597.jpg)])
+![Development](https://i.pinimg.com/originals/4c/c6/fc/4cc6fc72d42ae5814c01a51b0a49ea5b.gif](https://i.pinimg.com/736x/92/d5/a0/92d5a0e7c75c20e39f548376ab832597.jpg))
 
 # Jorge Quintui
 I am Jorge from Chile, a software engineer passionate about technologies, creating and high-level solutions.
