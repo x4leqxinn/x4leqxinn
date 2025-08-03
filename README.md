@@ -2,7 +2,7 @@
 
 ![Development](https://i.pinimg.com/736x/92/d5/a0/92d5a0e7c75c20e39f548376ab832597.jpg)
 
-# Jorge Quintui
+# ホルヘ・キントゥイ
 I am Jorge from Chile, a software engineer passionate about technologies, creating and high-level solutions.
 
 ## Skills and Experience
