@@ -36,4 +36,4 @@
 
 ---
 
-### 🏮 *“Keep coding, keep evolving.”* 🏮  
+### 🏮 *“Shinkansen Kurotsuki Project”* 🏮  
