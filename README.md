@@ -36,4 +36,4 @@
 
 ---
 
-### 🏮 *“Shinkansen Kurotsuki Project”* 🏮  
+### 🏮 *“Shinkansen no Shinigami Project”* 🏮  
